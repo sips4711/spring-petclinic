@@ -16,11 +16,11 @@
   <distributionManagement>
       <snapshotRepository>
         <id>maven-snapshots</id>
-        <url>http://nexus.sva-tooling:8081/repository/maven-snapshots/</url>
+        <url>https://nexus.sva-tooling:8081/repository/maven-snapshots/</url>
       </snapshotRepository>
       <repository>
         <id>maven-releases</id>
-        <url>http://nexus.sva-tooling:8081/repository/maven-releases/</url>
+        <url>https://nexus.sva-tooling:8081/repository/maven-releases/</url>
       </repository>
 </distributionManagement>
     
